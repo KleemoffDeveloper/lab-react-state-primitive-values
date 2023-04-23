@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/css/main.1415293a.chunk.css",
-    "main.js": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/js/main.45d5fb52.chunk.js",
-    "main.js.map": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/js/main.45d5fb52.chunk.js.map",
-    "runtime-main.js": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/js/runtime-main.4770988e.js",
-    "runtime-main.js.map": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/js/runtime-main.4770988e.js.map",
-    "static/js/2.8ce7c282.chunk.js": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/js/2.8ce7c282.chunk.js",
-    "static/js/2.8ce7c282.chunk.js.map": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/js/2.8ce7c282.chunk.js.map",
-    "index.html": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/index.html",
-    "static/css/main.1415293a.chunk.css.map": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/css/main.1415293a.chunk.css.map",
-    "static/js/2.8ce7c282.chunk.js.LICENSE.txt": "/kleemoffdeveloper.github.io/lab-react-state-primitive-values/static/js/2.8ce7c282.chunk.js.LICENSE.txt"
+    "main.css": "/lab-react-state-primitive-values/static/css/main.1415293a.chunk.css",
+    "main.js": "/lab-react-state-primitive-values/static/js/main.45d5fb52.chunk.js",
+    "main.js.map": "/lab-react-state-primitive-values/static/js/main.45d5fb52.chunk.js.map",
+    "runtime-main.js": "/lab-react-state-primitive-values/static/js/runtime-main.be1daf83.js",
+    "runtime-main.js.map": "/lab-react-state-primitive-values/static/js/runtime-main.be1daf83.js.map",
+    "static/js/2.8ce7c282.chunk.js": "/lab-react-state-primitive-values/static/js/2.8ce7c282.chunk.js",
+    "static/js/2.8ce7c282.chunk.js.map": "/lab-react-state-primitive-values/static/js/2.8ce7c282.chunk.js.map",
+    "index.html": "/lab-react-state-primitive-values/index.html",
+    "static/css/main.1415293a.chunk.css.map": "/lab-react-state-primitive-values/static/css/main.1415293a.chunk.css.map",
+    "static/js/2.8ce7c282.chunk.js.LICENSE.txt": "/lab-react-state-primitive-values/static/js/2.8ce7c282.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4770988e.js",
+    "static/js/runtime-main.be1daf83.js",
     "static/js/2.8ce7c282.chunk.js",
     "static/css/main.1415293a.chunk.css",
     "static/js/main.45d5fb52.chunk.js"
