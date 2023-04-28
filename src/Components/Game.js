@@ -5,19 +5,14 @@ export default function Game() {
     const [score, setScore] = useState(0)
     const [add, setAdd] = useState(1)
 
-    let variableScore = score
     const increaseScore = () => {
-        variableScore += add
-        setScore(variableScore)
+        setScore(score + add)
     }
 
-    let variableAdd = add
     const increaseAdd = () => {
         if (score >= 10) {
-            variableAdd += 1
-            variableScore -= 10
-            setScore(variableScore)
-            setAdd(variableAdd)
+            setScore(score - 10)
+            setAdd(add + 1)
         }
         else {
             alert('You can\'t afford that!')
